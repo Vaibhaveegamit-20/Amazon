@@ -1,2 +1,4 @@
 # Amazon
- Amazon clone using HTML and CSS
+ Amazon clone created using HTML and CSS
+
+ 
